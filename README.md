@@ -13,8 +13,8 @@ or
 just remember to type dlkjh correctly, you'll need it later.
 
 2. next, below lines 18-25 (placeholder stuff), add your own name yet again
-```name = Checkbutton (self, text="title", variable=self.var5```(or self.dlkjh)```, onvalue=1, offvalue=0)
-name.place(x=somewhere, y=somewhere)```
+`name = Checkbutton (self, text="title", variable=self.var5`(or self.dlkjh)`, onvalue=1, offvalue=0)`
+`name.place(x=somewhere, y=somewhere)`
 cool ! you're almost done
 
 3. now in ```def startSelected``` you need to write a few lines of code for it to work:
