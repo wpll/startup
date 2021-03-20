@@ -44,6 +44,6 @@ to actually write a path, here's an example and you can fill in the blanks:
 ## also important
 near the bottom of the python file (line 60 (root.geometry("220x120")), you can simply change the numbers to something bigger if you have to in order for more to fit
 
-### known issues
+#### known issues
 opening cmd will freeze the gui
 opening some programs like discord will also open a command prompt which will also close discord if you close the command prompt
